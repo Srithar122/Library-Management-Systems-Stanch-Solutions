@@ -5,7 +5,7 @@
 ## Navigate to the project directory:
 
 ```bash
-  cd Django-librarymanagement
+  cd Library-Management-Systems-Stanch-Solutions
 ```
 ## 3 . Create a virtual environment:
 ```bash
@@ -26,30 +26,3 @@
 ## 7 . Go to localhost:8000
 ---
 
-##### Admin can
-
-1.  login to admin dashboard
-2.  check all issues :
-
-    - see issues ,
-    - delete issues ,
-    - search issues by studentid
-    - filter issues based on :
-
-      - issued or not,
-      - returned or not ,
-
-3.  accept a issue :
-
-    - from the dashboard where admin has to manually select return date
-      **or**
-    - from the Issue requests page where return date is automatically calculated
-
-4.  add , delete search books and filter books based on author
-5.  add , delete , search author
-6.  calculate fine by clicking a button ,
-7.  create, delete fine ,search fines for studentid
-8.  toggle fine paid status (if paid in cash)
-9.  search ,modify,add,delete students , filter them based on department and check all fines and issues of that student
-10. can see the last-login , date joined & the student associated to a particular user
-11. can change password for any user
